@@ -53,10 +53,11 @@
       ],
     ),
   ),
+  bibliography-file: "../ref.bib",
 )
 
 = Section
-#lorem(50)
+#lorem(50)@chiPRIMENovelProcessingMemory2016
 
 == Subsection
 #lorem(50)
