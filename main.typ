@@ -3,9 +3,9 @@
 #let themeColor = rgb(0,51,102)
 
 #show: template.with(
-  title: "Pixels and their Neighbours",
-  subtitle: "A Tutorial on Finite Volume",
-  short-title: "Finite Volume Tutorial",
+  title: "FACT Lab Internal Manuscript",
+  subtitle: "A Simple Example",
+  short-title: "FACT Lab Internal Manuscript",
   venue: [#text(fill: themeColor, weight: "bold")[FACT] Lab, HKUST],
   // This is relative to the template file
   // When importing normally, you should be able to use it relative to this file.
