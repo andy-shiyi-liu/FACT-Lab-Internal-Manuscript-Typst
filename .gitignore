@@ -1,3 +1,5 @@
+*.pdf
+
 # Mac OS X Finder files
 .DS_Store
 *._*
