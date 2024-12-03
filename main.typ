@@ -56,6 +56,8 @@
   bibliography-file: "../ref.bib",
 )
 
+#outline()
+
 = Section
 #lorem(50)@chiPRIMENovelProcessingMemory2016
 
